@@ -36,6 +36,7 @@ func main() {
 
 	fmt.Printf("|%40s|%70s|\n", "Your Friend", "Last Time Online")
 	fmt.Printf("|%40s|%70s|\n", "", "")
+	fmt.Printf("|%40s|%70s|\n", "Diego Siqueira", diffForHumans(now, now))
 	for _, e := range friends {
 		user, err := t.User(e.UserID)
 		checkError(err)
@@ -71,6 +72,10 @@ func diffForHumans(a, b time.Time) string {
 	if min > 0 || p {
 		s += fmt.Sprintf("%02d", min) + " min(s) "
 		p = true
+	}
+
+	if !p {
+		return "ONLINE NOW!!!"
 	}
 
 	if sec > 0 || p {
