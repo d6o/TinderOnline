@@ -33,6 +33,8 @@ $ go get github.com/disiqueira/tinderonline
 $ tinderonline -h
 ```
 
+Make sure that `$GOPATH\bin` is in your PATH, if it is not add it by doing `export PATH=$PATH:$GOPATH/bin`
+
 ### Option 2: From source
 
 ```bash
