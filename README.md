@@ -1,4 +1,4 @@
-# ![TinderOnline](https://rawgit.com/DiSiqueira/Gorganizer/master/gorganizer-logo-50.jpg)
+# ![TinderOnline](http://image.prntscr.com/image/9d2b8e726a944215be4338849ea9c0cd.png)
 
 # TinderOnline ![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg) ![Go Report](https://goreportcard.com/badge/github.com/DiSiqueira/TinderOnline) ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg) ![Status Badge](https://img.shields.io/badge/Status-Beta-brightgreen.svg)
 
