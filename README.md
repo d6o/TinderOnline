@@ -10,7 +10,7 @@ The TinderOnline's goal is to be a perfect tool providing a stupidly easy-to-use
 
 TinderOnline is on beta. Pull Requests [are welcome](https://github.com/DiSiqueira/TinderOnline#social-coding)
 
-![](http://image.prntscr.com/image/24adc74eee184903abd120bacf56e852.png)
+![](https://i.imgur.com/W7JSwzA.jpg)
 
 ## Features
 
