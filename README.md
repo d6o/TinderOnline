@@ -62,7 +62,7 @@ $ tinderonline -token=YOURFACEBOOKTOKENHERE
 
 ## How to get your Facebook Token
 
-1. Open [This link] (https://www.facebook.com/v2.6/dialog/oauth?redirect_uri=fb464891386855067%3A%2F%2Fauthorize%2F&scope=user_birthday,user_photos,user_education_history,email,user_relationship_details,user_friends,user_work_history,user_likes&response_type=token%2Csigned_request&client_id=464891386855067)
+1. Open [This link](https://www.facebook.com/v2.6/dialog/oauth?redirect_uri=fb464891386855067%3A%2F%2Fauthorize%2F&scope=user_birthday,user_photos,user_education_history,email,user_relationship_details,user_friends,user_work_history,user_likes&response_type=token%2Csigned_request&client_id=464891386855067)
 
 2. You will see a dialog that says you have already authorized Tinder. At this point, open your browser’s developer tools. (Cmd + Option + I on Mac) or (F12, Ctrl + Shift + I on Windows) or right click the page anywhere and select 'Inspect'. Switch to the 'Network' tab in your developer tools window. Your dev tools window should look like the image below.
 ![](https://tinderface.herokuapp.com/fb-auth-window.png)
