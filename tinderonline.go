@@ -36,7 +36,6 @@ func main() {
 
 	fmt.Printf("|%40s|%70s|\n", "Your Friend", "Last Time Online")
 	fmt.Printf("|%40s|%70s|\n", "", "")
-	fmt.Printf("|%40s|%70s|\n", "Diego Siqueira", diffForHumans(now, now))
 	for _, e := range friends {
 		user, err := t.User(e.UserID)
 		checkError(err)
