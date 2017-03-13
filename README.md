@@ -20,7 +20,7 @@ TinderOnline is on beta. Pull Requests [are welcome](https://github.com/DiSiquei
 - 100% satisfaction guaranteed
 - It's perfect to find out if your girlfriend or boyfriend are using Tinder
 - Instantly see who are online now
-- STUPIDLY [EASY TO USE](https://github.com/DiSiqueira/Gorganizer#usage)
+- STUPIDLY [EASY TO USE](https://github.com/DiSiqueira/TinderOnline#usage)
 - Very fast start up and response time
 - Uses native libs
 
