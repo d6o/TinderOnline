@@ -1,3 +1,5 @@
+**UPDATE(2017-04-02):** No longer working, Tinder fixed the last ping date in their API. This is good looks like they care a **little** about their users privacy.
+
 # ![TinderOnline](http://image.prntscr.com/image/9d2b8e726a944215be4338849ea9c0cd.png)
 
 # TinderOnline ![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg) ![Go Report](https://goreportcard.com/badge/github.com/DiSiqueira/TinderOnline) ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg) ![Status Badge](https://img.shields.io/badge/Status-Beta-brightgreen.svg)
