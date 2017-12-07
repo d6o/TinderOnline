@@ -1,4 +1,4 @@
-**UPDATE(2017-04-02):** No longer working, Tinder fixed the last ping date in their API. This is good looks like they care a **little** about their users privacy.
+**UPDATE(2017-04-02):** No longer working, Tinder fixed the last ping date in their API. 
 
 # ![TinderOnline](http://image.prntscr.com/image/9d2b8e726a944215be4338849ea9c0cd.png)
 
